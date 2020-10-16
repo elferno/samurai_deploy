@@ -1,0 +1,1 @@
+{"version":3,"sources":["PostList.module.css"],"names":[],"mappings":"AAAA,sCACE,uBACF","file":"5.775d1f91.chunk.css","sourcesContent":[".post_list:last-child {\r\n  margin-bottom: var(--mm);\r\n}"]}
