@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "201f0971199bcc9693b0aeb0099a3d6f",
+    "revision": "ed03bcdc1a6e312aad73ce29a133c488",
     "url": "/samurai_deploy/index.html"
   },
   {
