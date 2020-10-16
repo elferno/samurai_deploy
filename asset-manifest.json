@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/samuria-deploy/static/css/main.9ac1404e.chunk.css",
+    "main.js": "/samuria-deploy/static/js/main.541020f7.chunk.js",
+    "main.js.map": "/samuria-deploy/static/js/main.541020f7.chunk.js.map",
+    "runtime-main.js": "/samuria-deploy/static/js/runtime-main.63bbc082.js",
+    "runtime-main.js.map": "/samuria-deploy/static/js/runtime-main.63bbc082.js.map",
+    "static/js/2.fadef2ff.chunk.js": "/samuria-deploy/static/js/2.fadef2ff.chunk.js",
+    "static/js/2.fadef2ff.chunk.js.map": "/samuria-deploy/static/js/2.fadef2ff.chunk.js.map",
+    "static/css/3.88dbfda5.chunk.css": "/samuria-deploy/static/css/3.88dbfda5.chunk.css",
+    "static/js/3.48590b5f.chunk.js": "/samuria-deploy/static/js/3.48590b5f.chunk.js",
+    "static/js/3.48590b5f.chunk.js.map": "/samuria-deploy/static/js/3.48590b5f.chunk.js.map",
+    "static/css/4.ae853573.chunk.css": "/samuria-deploy/static/css/4.ae853573.chunk.css",
+    "static/js/4.45f806ce.chunk.js": "/samuria-deploy/static/js/4.45f806ce.chunk.js",
+    "static/js/4.45f806ce.chunk.js.map": "/samuria-deploy/static/js/4.45f806ce.chunk.js.map",
+    "static/css/5.fd8e1469.chunk.css": "/samuria-deploy/static/css/5.fd8e1469.chunk.css",
+    "static/js/5.4e731196.chunk.js": "/samuria-deploy/static/js/5.4e731196.chunk.js",
+    "static/js/5.4e731196.chunk.js.map": "/samuria-deploy/static/js/5.4e731196.chunk.js.map",
+    "index.html": "/samuria-deploy/index.html",
+    "precache-manifest.fc7c7cdf24aab322039b01dce4b9f295.js": "/samuria-deploy/precache-manifest.fc7c7cdf24aab322039b01dce4b9f295.js",
+    "service-worker.js": "/samuria-deploy/service-worker.js",
+    "static/css/3.88dbfda5.chunk.css.map": "/samuria-deploy/static/css/3.88dbfda5.chunk.css.map",
+    "static/css/4.ae853573.chunk.css.map": "/samuria-deploy/static/css/4.ae853573.chunk.css.map",
+    "static/css/5.fd8e1469.chunk.css.map": "/samuria-deploy/static/css/5.fd8e1469.chunk.css.map",
+    "static/css/main.9ac1404e.chunk.css.map": "/samuria-deploy/static/css/main.9ac1404e.chunk.css.map",
+    "static/js/2.fadef2ff.chunk.js.LICENSE.txt": "/samuria-deploy/static/js/2.fadef2ff.chunk.js.LICENSE.txt",
+    "static/media/advBanner_0.png": "/samuria-deploy/static/media/advBanner_0.73869519.png",
+    "static/media/advBanner_1.png": "/samuria-deploy/static/media/advBanner_1.6720313d.png",
+    "static/media/index.css": "/samuria-deploy/static/media/roboto.94dac78e.woff",
+    "static/media/error_404.png": "/samuria-deploy/static/media/error_404.61939259.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63bbc082.js",
+    "static/js/2.fadef2ff.chunk.js",
+    "static/css/main.9ac1404e.chunk.css",
+    "static/js/main.541020f7.chunk.js"
+  ]
+}
