@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "847531cdfff8a38c3b4d6c2fe474e4d7",
+    "revision": "bcdd78b6773bc41bd9d6a19e5d65c186",
     "url": "/samurai_deploy/index.html"
   },
   {
-    "revision": "16ec65884b8a68d65d0b",
+    "revision": "a68b45930a2b370532ef",
     "url": "/samurai_deploy/static/css/3.88dbfda5.chunk.css"
   },
   {
-    "revision": "b0a60f06c9acf272ac01",
+    "revision": "6cf754ef0ebb643e8d34",
     "url": "/samurai_deploy/static/css/4.ae853573.chunk.css"
   },
   {
@@ -16,44 +16,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samurai_deploy/static/css/5.775d1f91.chunk.css"
   },
   {
-    "revision": "fbab13dd2bb3a65f4274",
+    "revision": "481b49d41f10e6be4b30",
     "url": "/samurai_deploy/static/css/6.7327e77c.chunk.css"
   },
   {
-    "revision": "13c4d9e631f2275ea1f2",
+    "revision": "fbe3bc80448cf71bd292",
     "url": "/samurai_deploy/static/css/main.adcd09ca.chunk.css"
   },
   {
-    "revision": "e387cbf7775998945817",
-    "url": "/samurai_deploy/static/js/2.44b6f24b.chunk.js"
+    "revision": "6aafee5966924156023b",
+    "url": "/samurai_deploy/static/js/2.5fc91cc2.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/samurai_deploy/static/js/2.44b6f24b.chunk.js.LICENSE.txt"
+    "url": "/samurai_deploy/static/js/2.5fc91cc2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "16ec65884b8a68d65d0b",
-    "url": "/samurai_deploy/static/js/3.0df09be3.chunk.js"
+    "revision": "a68b45930a2b370532ef",
+    "url": "/samurai_deploy/static/js/3.0020d31f.chunk.js"
   },
   {
-    "revision": "b0a60f06c9acf272ac01",
-    "url": "/samurai_deploy/static/js/4.fb6f36b2.chunk.js"
+    "revision": "6cf754ef0ebb643e8d34",
+    "url": "/samurai_deploy/static/js/4.d5157359.chunk.js"
   },
   {
     "revision": "0e8ec18680c536317359",
     "url": "/samurai_deploy/static/js/5.c852a177.chunk.js"
   },
   {
-    "revision": "fbab13dd2bb3a65f4274",
-    "url": "/samurai_deploy/static/js/6.be423b0d.chunk.js"
+    "revision": "481b49d41f10e6be4b30",
+    "url": "/samurai_deploy/static/js/6.245d23f5.chunk.js"
   },
   {
-    "revision": "13c4d9e631f2275ea1f2",
-    "url": "/samurai_deploy/static/js/main.e1731429.chunk.js"
+    "revision": "fbe3bc80448cf71bd292",
+    "url": "/samurai_deploy/static/js/main.04903c6a.chunk.js"
   },
   {
-    "revision": "87909078b5bdd14bc78a",
-    "url": "/samurai_deploy/static/js/runtime-main.ef068531.js"
+    "revision": "53624e236cb0f3cb3f83",
+    "url": "/samurai_deploy/static/js/runtime-main.95fc4d77.js"
   },
   {
     "revision": "7386951995e51d845253996e909b8b0c",
